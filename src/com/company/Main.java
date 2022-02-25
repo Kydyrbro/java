@@ -12,7 +12,7 @@ public class Main {
         for (int a: asel) {
             couter += a;
         }
-        System.out.println(couter);
+
     }
 }
 
